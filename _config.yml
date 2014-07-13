@@ -1,0 +1,15 @@
+# Site settings
+title: Hugo Osvaldo Barrera
+email: hugo@barrera.io
+description: "Software developer. Tech geek. Food lover."
+baseurl: ""
+url: "https://hugo.barrera.io"
+github_username:  hobarrera
+
+source: src
+destination: build
+gems: ['jekyll-sass']
+
+# Build settings
+markdown: kramdown
+permalink: pretty

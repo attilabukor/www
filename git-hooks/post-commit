@@ -1,0 +1,4 @@
+#!/bin/sh
+
+jekyll build &&
+rsync -avz --delete build/ hugo.barrera.io:/var/www/https/hugo.barrera.io/

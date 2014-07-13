@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<!--
+Copyright (c) 2014 Hugo Osvaldo Barrera. All right reserved.
+
+You are free to reuse parts of this website and use it as a reference so long
+as you do not try to imitate it, or personify anybody related to it.
+-->
+
+<meta charset="utf-8">
+<meta name="referrer" content="always">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<link href="/styles/new.css" rel='stylesheet'>
+<link href="/styles/icons.css" rel='stylesheet'>
+<link href="/styles/solarized_dark.css" rel='stylesheet'>
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Actor' rel='stylesheet'>
+
+<link rel="openid.server" href="http://openid.barrera.io/openidserver">
+<link rel="openid.delegate" href="https://hugo.barrera.io/">
+
+<link rel="openid2.local_id" href="https://hugo.barrera.io/">
+<link rel="openid2.provider" href="http://openid.barrera.io/openidserver">
+
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+</head>
+<body>
+    <div id="container">
+        <header id="master">
+            <a href="/">
+                <img id="photo" src="/images/me_128.png" alt="Photo of me">
+            </a>
+            <h1>Hugo Osvaldo Barrera</h1>
+            <span>IT Consultant & Software Developer</span>
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="https://github.com/hobarrera"><i class="icon-github"></i> Code</a></li>
+                    <li><a href="/cv/cv.pdf">My CV</a></li>
+                    <li><a href="/recipes">Recipes</a></li>
+                </ul>
+            </nav>
+            <div class="group"></div>
+        </header>
+        <article>
+          {{ content }}
+        </article>
+        <div class="group"></div>
+        <footer>
+            <!--This website has been tested on firefox, w3m, chromium, opera mini and a few other browsers.<br>-->
+            Copyright &copy; 2014 Hugo Osvaldo Barrera
+        </footer>
+        <!-- Hack that adds a sort of "min-width" that has less precedence than "max-width" -->
+        <div class="width-hack">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
+    </div>
+
+</body>
+</html>
