@@ -7,7 +7,12 @@ recipe: true
 Brownies
 ========
 
-Ordinary brownies.
+Good ol' brownies. Vegan edition.
+
+<figure>
+  <img src="/images/recipes/brownies.jpg" alt="Brownies">
+  <figcaption>One of the few times they lasted long enough for a photo.</figcaption>
+</figure>
 
 Ingredients
 -----------
