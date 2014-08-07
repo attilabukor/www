@@ -94,7 +94,7 @@ header#master {
 }
 
 article {
-  p, ul, h1, h2, h3, div#disqus_thread, time, div.highlight {
+  p, ul, h1, h2, h3, div#disqus_thread, time, div.highlight, div.journal-entry {
     max-width: $article-width;
     margin-left: auto;
     margin-right: auto;
@@ -241,9 +241,18 @@ article {
   }
 
   time {
-    margin-top: -2em;
+    margin-top: -2.2em;
     display: block;
     font-size: 0.7em;
+  }
+
+  div.journal-entry {
+
+    div.excerpt {
+      margin-left: 0.2em;
+      padding-left: 1em;
+      border-left: 3px solid #d0d0d0;
+    }
   }
 }
 

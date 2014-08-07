@@ -13,3 +13,4 @@ gems: ['jekyll-sass']
 # Build settings
 markdown: kramdown
 permalink: pretty
+excerpt_separator: "<!-- __MORE__ -->"

@@ -10,6 +10,8 @@ For years I've had a single task on my TO-DO list: backup photos. I had an awful
 
 Doing backups the right way means taking several items into consideration, and should not be done lightly. Trusting poor backup solutions will result in a false sense of security where you might loose everything suddenly, and not even realize it until it's too late!
 
+<!-- __MORE__ -->
+
 These are items you should keep in mind when designing your backup solution:
 
  * **Automation**  
