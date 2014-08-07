@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Brownies
-recipe: true
 ---
-
-Brownies
-========
 
 Good ol' brownies. Vegan edition.
 

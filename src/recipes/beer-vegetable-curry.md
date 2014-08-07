@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Beer Vegetable Curry
-recipe: true
 ---
-
-Beer Vegetable Curry
-====================
 
 A rather unusual curry that I made up which turned out to be pretty good. I will keep on working on this and adding changes each time I prepare it.
 

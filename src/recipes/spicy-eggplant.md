@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Spicy Eggplant
-recipe: true
 ---
-
-Spicy Eggplant
-==============
 
 Loosely based on something I once ate at an assian restaurant a long time ago, I tend to eat this quite often. It's a pretty fast recipe, with a spicy and somewhat sweet result.
 

@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: recipe
 title: Okara Cookies
-recipe: true
 ---
 
-Almond Okara Cookies
-====================
 I first made these rather simple cookies since I had no idea what to do with all the leftover [okara](https://en.wikipedia.org/wiki/Okara_%28food%29) the first time I made almond milk.
 
 I'll update this as I refine the recipe.

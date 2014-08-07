@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Lentil Spinach Pie
-recipe: true
 ---
-
-Lentil Spinach Pie
-==================
 
 A second version of a quick and easy pie I made up quickly some time ago.
 

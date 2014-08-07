@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Saffron Rice
-recipe: true
 ---
-
-Saffron Rice
-===========
 
 I actually added saffron to this recipe quite recently. It used to just be spiced rice with veggies, and the saffron was the final touch to reach perfection.
 

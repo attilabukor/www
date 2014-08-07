@@ -12,7 +12,7 @@ All of these recipes are vegan-friendly.
 
 <ul>
 {% for post in site.pages %}
-  {% if post.recipe %}
+  {% if post.layout == "recipe" %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
     </li>

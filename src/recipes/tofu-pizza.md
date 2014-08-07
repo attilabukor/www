@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Tofu Pizza
-recipe: true
 ---
-
-Tofu Pizza
-==========
 
 I improvised this after buying tofu for the first time. I had been reading some Thai recipes the last days, so I was kind of inspired by the style a bit (especially for the sauce).
 

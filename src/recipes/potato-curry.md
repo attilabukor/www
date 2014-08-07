@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: recipe
 title: Potato Curry
-recipe: true
 ---
-
-Potato Curry
-============
 
 I read about ~4-6 recipes, and then made this up using those as a reference. It's a pretty filling food, and one of the few dishes I know that's still really good once it's cooled down.
 
