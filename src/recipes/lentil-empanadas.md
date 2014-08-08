@@ -6,10 +6,15 @@ title: Lentil Empanadas
 [Empanadas](https://en.wikipedia.org/wiki/Empanadas) are a stuff pastry
 (usually eaten using ones hands), extremely common in Argentina, though the
 traditional stuffing include [meats and
-eggs](https://en.wikipedia.org/wiki/Sentiocentrism).  
+eggs](https://en.wikipedia.org/wiki/Sentiocentrism).
+
 While I had no idea what I was doing when I started this vegan variation,
 it turned out extremely good, and relatively simple, especially to
 prepare in very large quantities.
+
+<figure>
+  <img src="/images/recipes/lentil-empanadas.jpg" alt="Lentil Empanadas">
+</figure>
 
 Ingredients
 -----------
@@ -18,12 +23,12 @@ Ingredients
  * 3 small onions, miniprimmed
  * &frac12; large red bell pepper, miniprimmed
  * &frac12; spoonful coriander
- * &frac12;-&#8532; spoonful curry powder
+ * &frac12; - &#8532; spoonful curry powder
  * &frac12; spoonful cumin
  * 100-150g spaniach
  * 1 large cup red lentil
  * 2 handfuls olives, sliced
- * Empanada doughs. These units roughly fill up about 20.
+ * Empanada doughs. These units roughly fill up 18.
 
 Preparation
 -----------
