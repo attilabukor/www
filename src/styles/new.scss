@@ -89,12 +89,13 @@ header#master {
         border-bottom: #25649F 1px dotted;
         transition: all 0.3s ease 0s;
       }
+
     }
   }
 }
 
 article {
-  p, ul, h1, h2, h3, div#disqus_thread, time, div.highlight, div.journal-entry {
+  p, ul, h1, h2, h3, time, div {
     max-width: $article-width;
     margin-left: auto;
     margin-right: auto;
@@ -228,6 +229,11 @@ article {
       transition: all 0.3s ease 0s;
       border-bottom:  #0E73C6 1px solid;
     }
+
+    &.img:hover {
+      /* Hack to get rid of the border on img anchors */
+      border-bottom: 0 white solid !important;
+    }
   }
 
   hr {
@@ -280,4 +286,70 @@ footer {
 
 .del {
   text-decoration: line-through;
+}
+
+
+/* Responsive Grid System */
+
+
+/*  SECTIONS  ============================================================================= */
+
+.section {
+  clear: both;
+  padding: 0px;
+}
+
+/*  GROUPING  ============================================================================= */
+
+
+.group:before,
+.group:after {
+    content:"";
+    display:table;
+}
+.group:after {
+    clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+
+.col:first-child {
+  margin-left: 0;
+} /* all browsers except IE6 and lower */
+
+
+@media only screen and (max-width: 480px) {
+  .col {
+    margin: 1% 0 1% 0%;
+  }
+}
+
+.span_2_of_2 {
+  width: 100%;
+}
+
+.span_1_of_2 {
+  width: 49.2%;
+}
+
+@media only screen and (max-width: 480px) {
+  .span_2_of_2 {
+    width: 100%;
+  }
+  .span_1_of_2 {
+    width: 100%;
+  }
+}
+
+/* End Responsive Grid */
+
+div.portfolio * {
+  text-align: left;
 }
