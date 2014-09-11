@@ -7,7 +7,10 @@ permalink: /recipes/
 Recipes
 =======
 
-Since I'm such a lover of sharing and free knowledge, I've put up this section with recipes for stuff I cook or cooked.  I also use it to quickly share a recipe when some acquaintance asks me how something is made, and, for course, for myself in the future.  
+Since I'm such a lover of sharing and free knowledge, I've put up this section
+with recipes for stuff I cook or cooked.  I also use it to quickly share a
+recipe when some acquaintance asks me how something is made, and, for course,
+for myself in the future.
 All of these recipes are vegan-friendly.
 
 <ul>
@@ -19,3 +22,11 @@ All of these recipes are vegan-friendly.
   {% endif %}
 {% endfor %}
 </ul>
+
+More recipes
+------------
+
+These are some more recipes I love, and keep listed here for my own future
+reference:
+
+ * [Falafel](http://www.epicurious.com/recipes/food/views/My-Favorite-Falafel-231755)
