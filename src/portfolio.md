@@ -49,7 +49,7 @@ Native Applications & Scripts
 -----------------------------
 
 ### ubersquare
-<a href="https://github.com/hobarrera/ubersquare">ubersquare</a> was a foursquare client for the N900/Maemo. It was my first proper desktop (well, mobile) application, as well as my first Qt application and on of my first large python proyects. As such, the code was pretty awful (though it did get the job done). Regrettably, my N900 broke before I finished the complete rewrite, and poorly designed code is the latest that's available of this now defunct proyect.
+<a href="https://github.com/hobarrera/ubersquare">ubersquare</a> was a foursquare client for the N900/Maemo. It was my first proper desktop (well, mobile) application, as well as my first Qt application and on of my first large python projects. As such, the code was pretty awful (though it did get the job done). Regrettably, my N900 broke before I finished the complete rewrite, and poorly designed code is the latest that's available of this now defunct proyect.
 
 ### usrc.d
 <a href="https://github.com/hobarrera/usrc.d">usrc.d</a> is a set of scripts to manage user sessions' services, WMs, etc similar how to rc.d manages system daemons. Based on OpenBSD's rc.d, it's use to control background services like window managers, offlineimap, sxhkd (or xbindkeys), etc.
